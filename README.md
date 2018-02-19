@@ -1,6 +1,8 @@
 ps-guitar-db
 ============
 
+pluralsight course https://app.pluralsight.com/library/courses/spring-data-jpa-getting-started/description
+
 A Basic Spring JPA app with an H2 DB
 
 Prerequisites
